@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Antisocial Extrovert<br>CompSci • 5th Sem<br>Games & Code<br>"I grieve different."</p>
+
 
 ###
 
