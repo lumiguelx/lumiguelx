@@ -71,7 +71,7 @@ Plataforma de **livraria online** com funcionalidades de **compra e aluguel de l
 - Desenvolvimento Frontend  
 - UI/UX  
 - Estruturação de interfaces e experiência do usuário  
-https://github-readme-stats.vercel.app/api/top-langs/?username=lumiguelx&layout=compact&theme=tokyonight&langs_count=6&hide=HTML,CSS
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=lumiguelx&layout=compact&theme=tokyonight&langs_count=6&hide=HTML,CSS)" height="40"/>
 ---
 
 <div align="center">
